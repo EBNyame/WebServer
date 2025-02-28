@@ -31,4 +31,6 @@ Clone and install my-project with npm
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://github.com/user-attachments/assets/dcab0976-9ae5-4d86-a79e-b0243903d845)
+![image](https://github.com/user-attachments/assets/409bc303-50ec-49c9-9ddc-66c511b01f22)
+
