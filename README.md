@@ -27,6 +27,7 @@ Clone and install my-project with npm
 ## Authors
 
 - [@EBNyame](https://www.github.com/EBNyame)
+- [Linkedin](https://www.linkedin.com/in/exodus-blessed-nyame-715889283/)
 
 
 ## Screenshots
